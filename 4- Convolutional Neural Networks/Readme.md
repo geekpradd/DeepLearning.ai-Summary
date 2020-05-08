@@ -330,6 +330,9 @@ Here is the course summary as given on the course [link](https://www.coursera.or
 - Putting it all together:
   - ![](Images/04.png)
 
+### Backpropagation in Conv Nets
+
+Refer to [this](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) and [this](https://towardsdatascience.com/backpropagation-in-a-convolutional-layer-24c8d64d8509) link.
 ## Deep convolutional models: case studies
 
 > Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
